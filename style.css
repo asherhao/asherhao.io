@@ -1,0 +1,83 @@
+body {
+  font-family: georgia,serif;
+  line-height: 2.5em;
+  background-color: gray;
+  background-image: url(wheat.png);
+  text-align: center;
+}
+
+article {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+head {
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"/>	
+}
+
+header {
+	background-color: black;
+	color: lime;
+	text-align: center;
+	text-decoration: underline;
+	padding:30px;
+	padding-top: 10px;
+	margin: auto;
+	border: 2px dotted yellow;
+}
+
+h2, h3, h5 {
+	background-color: black;
+	color: red;
+}
+
+h4{
+	background-color: black;
+	color: yellow;
+}
+
+section {
+	background-color: gray;
+}
+
+table{
+	font-family: "dancing script",cursive;
+	display: inline;
+	margin:auto;
+}
+
+h1{
+	font-size: 60px;
+}
+
+img{
+	border-radius: 30px;
+}
+
+#id-Slack{
+	background-color: white;
+	color: blue;
+}
+
+.lime {
+  color: lime;
+}
+
+.purple{
+	color: purple;
+}
+.blue{
+	color: blue;
+}
+
+.yellow{
+	color: yellow;
+}
+
+.white{
+	color: white;
+}
+
+.pink{
+	color: pink;
+}
